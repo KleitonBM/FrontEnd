@@ -86,6 +86,7 @@ footer p {
     color: var(--CorTextoTerciaria);
     text-align: center;
     padding: 20px 0;
+    margin-top: 50px;
 }
 .conteiner{
     max-width: 1500px;
